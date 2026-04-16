@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<b>Eu sou o Bruno Correia, estou estudando programação e já consegui criar vários projetos usando:</b>
+<b>Eu sou o Bruno Correia, 💻 Desenvolvedor Front-end em transição de carreira, apaixonado por tecnologia e construção de interfaces modernas.
+</b>
 </br>
 </br>
  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
