@@ -2,7 +2,9 @@
 
 ## 🚀 Sobre Min
 
-Sou um desenvolvedor Front-End apaixonado por criar experiências web incríveis e intuitivas. Especializado em **React** e **JavaScript**, com foco em construir aplicações modernas e escaláveis.
+Sou um desenvolvedor apaixonado em constante aprendizado, focado em criar soluções práticas 
+e de qualidade. Tenho experiência em desenvolvimento de projetos práticos com as tecnologias 
+modernas mais relevantes do mercado.
 
 ---
 
