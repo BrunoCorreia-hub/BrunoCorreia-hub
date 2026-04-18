@@ -69,9 +69,9 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 ---
 ## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoCorreia-hub-github&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoCorreia-hub&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCorreia-hub-github&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCorreia-hub&layout=compact&theme=dark)
 ---
 
 ## 🎨 Filosofia de Desenvolvimento
