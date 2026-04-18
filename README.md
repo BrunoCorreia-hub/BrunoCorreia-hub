@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Bruno Correia de Oliveira
+# 👋 Olá! Bem vindo(a) ao meu GitHub
 
-## 🚀 Desenvolvedor Front-End
+## 🚀 Sobre Min
 
-Sou um desenvolvedor apaixonado por criar experiências web incríveis e intuitivas. Especializado em **React** e **JavaScript**, com foco em construir aplicações modernas e escaláveis.
+Sou um desenvolvedor Front-End apaixonado por criar experiências web incríveis e intuitivas. Especializado em **React** e **JavaScript**, com foco em construir aplicações modernas e escaláveis.
 
 ---
 
