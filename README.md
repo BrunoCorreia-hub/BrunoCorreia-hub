@@ -1,6 +1,8 @@
-# 👋 Olá! Bem vindo(a) ao meu GitHub
+# 👋 Olá! Bem-vindo(a) ao meu GitHub
 
-## 🚀 Sobre Min
+# 🚀 Desenvolvedor Front-End
+
+## 🌱 Sobre Min
 
 Sou um desenvolvedor apaixonado em constante aprendizado, focado em criar soluções práticas 
 e de qualidade. Tenho experiência em desenvolvimento de projetos práticos com as tecnologias 
@@ -47,6 +49,12 @@ Uma aplicação completa de gestão financeira desenvolvida com **TypeScript**, 
 - ✅ Trabalho com TypeScript para código mais seguro e mantível
 
 ---
+## 🎓 Atualmente Aprendendo
+
+- 🔍 Aprofundando em JavaScript e TypeScript
+- 🚀 Explorando APIs de IA
+- 💻 Melhorando habilidades em React
+---
 
 ## 🤝 Vamos Conectar!
 
@@ -59,7 +67,12 @@ Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade 
 📱 **Telefone:** (61) 99803-2785
 
 ---
+## 📊 Minhas Estatísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoCorreia-hub-github&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCorreia-hub-github&layout=compact&theme=dark)
+---
 
 ## 🎨 Filosofia de Desenvolvimento
 
